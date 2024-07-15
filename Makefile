@@ -1,8 +1,8 @@
 normal:
-	cd lessClusteringAndVillages/; make
+	cd worldGen/; make
 	cd moreDiamondsAndChestLoot/; make
 	cd tradingChanges/; make
-	mv lessClusteringAndVillages/WorldGenTweaks.zip .
+	mv worldGen/WorldGenTweaks.zip .
 	mv moreDiamondsAndChestLoot/DiamondsLootChanges.zip .
 	mv tradingChanges/TradingChanges.zip .
 
